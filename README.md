@@ -2,4 +2,4 @@
 
 This mind map for Not Safe Arg(all materials included)
 
-I use Obsidian Canvas for mind map([Link to Obsidian website](https://obsidian.md/))
+I use Obsidian Canvas for mind map([Obsidian website](https://obsidian.md/))
